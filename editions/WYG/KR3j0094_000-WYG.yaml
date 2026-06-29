@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0094/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0094_WYG_000-1a, image: WYG0863/WYG0863-0021a.png}
+body:
+  text: 東坡志林雜家類三雜説之屬提要臣等謹案東坡志林十二卷宋蘇軾撰陳振孫書録解題載東坡手澤十卷注曰今俗本大全集中所謂志林者也今觀所載諸條多自署年月者又有署讀某書書此者又有泛稱昨日今日不署何時者葢軾隨手所記本非著作亦無書名其後人裒而録之命曰手澤而刋軾集者不欲以父書目之故題曰志林耳中如張雎陽生猶罵賊嚼齒穿齦顔平原死不忘君握拳穿掌四語據東坡外紀乃軾謫儋耳時醉至姜秀才家值姜外出就其母索紙所書今亦在卷中自為一條不復别贅一語是亦蒐輯墨迹之一證矣此本十二卷較振孫所紀多二卷葢其卷帙亦皆後人所分故多寡各隨其意也乾隆四十五年二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:2ddd1611e12efd856dbee640ad441e2c9f91722a1d45ef2f197626c90dce0d18
+metadata:
+  title: 東坡志林
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:22:58.171884'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0094/KR3j0094_000.txt
+hash: sha256:1b2bc9215f24b1144c23bc7582d6065e0b9871c32e89a392a994f92e6b85a3db
